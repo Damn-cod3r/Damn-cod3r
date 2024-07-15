@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm chidambaram_sekar</h1>
 🚀 Django Developer intern at Visual Verb.
 
@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/chida_cham" target="blank"><img src="https://img.shields.io/twitter/follow/chida_cham?logo=twitter&style=for-the-badge" alt="chida_cham" /></a> </p>
 
-- 🔭 I’m currently working on **Android App - Convertify**
+- 🔭 I’m currently working on **Survey Tool using Django Framework**
 
 - 💬 Ask me about **Python, SQlite.**
 
