@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm chidambaram_sekar</h1>
 🚀 Django Developer intern at Visual Verb.
 
-💻 Proficient in C, C++, Java, Python | Frontend skills in HTML, CSS, XML. 
+💻 Proficient in C, C++, Java, Python | Frontend skills in HTML, CSS, JavaScript. 
 
 📊 Database wizard with SQLite, NoSQL, and Firebase.
 
@@ -19,14 +19,14 @@
 
 📚 Learning:
 - Always hungry to learn and explore new technologies.
-- Currently focused on Convertify app.
-<h3 align="center">A passionate android developer from India</h3>
+- Currently focused on Survey Tool.
+<h3 align="center">A passionate Django developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damn-cod3r&label=Profile%20views&color=0e75b6&style=flat" alt="damn-cod3r" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chida_cham" target="blank"><img src="https://img.shields.io/twitter/follow/chida_cham?logo=twitter&style=for-the-badge" alt="chida_cham" /></a> </p>
 
-- 🔭 I’m currently working on **Survey Tool using Django Framework**
+- 🔭 I’m currently working on **Survey Tool using Django Framework.**
 
 - 💬 Ask me about **Python, SQlite.**
 
