@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **Android App - Convertify**
 
-- 💬 Ask me about **Android, Java.**
+- 💬 Ask me about **Python, SQlite.**
 
 - 📫 How to reach me **chidambaram097@gmail.com**
 
