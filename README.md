@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm chidambaram_sekar</h1>
-🚀 Aspiring App Developer | MCA Student @ VIT University.
+🚀 Django Developer intern at Visual Verb.
 
 💻 Proficient in C, C++, Java, Python | Frontend skills in HTML, CSS, XML. 
 
