@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/chida_cham" target="blank"><img src="https://img.shields.io/twitter/follow/chida_cham?logo=twitter&style=for-the-badge" alt="chida_cham" /></a> </p>
 
-- 🔭 I’m currently working on **Survey Tool using Django Framework.**
+- 🔭 I’m currently working on **Survey Tool using Django Framework.** and **Blog Application using Django Framework.**
 
 - 💬 Ask me about **Python, SQlite.**
 
