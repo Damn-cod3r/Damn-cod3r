@@ -9,7 +9,7 @@
 🌟 About Me:
 - MCA Gratuate at VIT University, on the path to becoming a skilled app developer.
 - Passionate about software development and crafting elegant solutions to real-world problems.
-- Proficient in multiple programming languages and adept at front-end development.
+- Proficient in multiple programming languages and adept at front-end development
 
 🛠️ Tech Stack:
 - Languages: C, C++, Java, Python
