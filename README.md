@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm chidambaram_sekar</h1>
-🚀 Django Developer intern at Visual Verb.
 
 💻 Proficient in C, C++, Java, Python | Frontend skills in HTML, CSS, JavaScript.
 
