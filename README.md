@@ -50,5 +50,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damn-cod3r&show_icons=true&locale=en&layout=compact" alt="damn-cod3r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damn-cod3r&show_icons=true&locale=en" alt="damn-cod3r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damn-cod3r&" alt="damn-cod3r" /></p>
