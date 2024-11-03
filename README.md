@@ -4,7 +4,6 @@
 
 📊 Database wizard with SQLite, NoSQL, and Firebase.
 
-
 🌟 About Me:
 - MCA Gratuate at VIT University, on the path to becoming a skilled app developer.
 - Passionate about software development and crafting elegant solutions to real-world problems.
