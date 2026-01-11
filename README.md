@@ -1,51 +1,73 @@
-<h1 align="center">Hi 👋, I'm chidambaram_sekar</h1>
+<h1 align="center">Hi 👋, I'm Chidambaram Sekar</h1>
 
-💻 Proficient in C, C++, Java, Python | Frontend skills in HTML, CSS, JavaScript.
-
-📊 Database wizard with SQLite, NoSQL, and Firebase.
+🎓 PhD Scholar in Artificial Intelligence (Reinforcement Learning & Multi-Agent Systems) @ VIT Vellore  
+💻 Proficient in Python, C, C++, Java | Web: HTML, CSS, JavaScript  
+🧠 Researcher in Deep Reinforcement Learning (DRL), MARL, and Intelligent Agents  
 
 🌟 About Me:
-- MCA Gratuate at VIT University, on the path to becoming a skilled app developer.
-- Passionate about software development and crafting elegant solutions to real-world problems.
-- Proficient in multiple programming languages and adept at front-end development
+- PhD Scholar in AI specializing in **Reinforcement Learning & Multi-Agent Systems** at VIT Vellore.
+- Research focus: Learning optimal policies for collaborative & competitive environments.
+- Strong background in Machine Learning, Deep Learning, and Django-based web applications.
+- Passionate about solving real-world problems using AI and scalable software systems.
 
 🛠️ Tech Stack:
-- Languages: C, C++, Java, Python
-- Frontend: HTML, CSS, XML
+- Languages: Python, C, C++, Java
+- Web: HTML, CSS, JavaScript
+- Frameworks: Django
 - Databases: SQLite, NoSQL, Firebase
+- AI/ML: Deep Learning, Reinforcement Learning, MARL
 
-📚 Learning:
-- Always hungry to learn and explore new technologies.
-- Currently focused on Survey Tool Using Django Framework. 
-<h3 align="center">A passionate Django developer from India</h3>
+📚 Currently Working On:
+- Research in **Multi-Agent Reinforcement Learning**
+- Policy Optimization for Collaborative & Competitive Tasks
+- AI-based intelligent systems
+- Django-based web applications
+
+<h3 align="center">PhD Scholar | AI Researcher | Django Developer from India 🇮🇳</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/16180a07-378f-445c-b5c3-04393de65629">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damn-cod3r&label=Profile%20views&color=0e75b6&style=flat" alt="damn-cod3r" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chida_cham" target="blank"><img src="https://img.shields.io/twitter/follow/chida_cham?logo=twitter&style=for-the-badge" alt="chida_cham" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=damn-cod3r&label=Profile%20views&color=0e75b6&style=flat" alt="damn-cod3r" />
+</p>
 
-- 🔭 I’m currently working on **Survey Tool using Django Framework.** and **Blog Application using Django Framework.**
+<p align="left">
+  <a href="https://twitter.com/chida_cham" target="blank">
+    <img src="https://img.shields.io/twitter/follow/chida_cham?logo=twitter&style=for-the-badge" alt="chida_cham" />
+  </a>
+</p>
 
-- 💬 Ask me about **Python, SQlite.**
-
-- 📫 How to reach me **chidambaram097@gmail.com**
-
-- 📄 Know about my experiences [[LINK](https://drive.google.com/file/d/1HTAflP9VPOYEIUfd4CbHFpdAIuBYKRV7/view?usp=sharing)
+- 🔭 I’m currently working on **Multi-Agent Reinforcement Learning Research** and **Django-based Applications**
+- 💬 Ask me about **Python, Reinforcement Learning, MARL, Django, SQLite**
+- 📫 How to reach me: **chidambaram097@gmail.com**
+- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1HTAflP9VPOYEIUfd4CbHFpdAIuBYKRV7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chida_cham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chida_cham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chidambaram_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidambaram_sekar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chidambaram_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chidambaram_sekar" height="30" width="40" /></a>
-<a href="https://kaggle.com/chidambaram sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chidambaram sekar" height="30" width="40" /></a>
-<a href="https://instagram.com/chidambaram_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chidambaram_sekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/damn_cod3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="damn_cod3r" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chidambatugt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chidambatugt" height="30" width="40" /></a>
-<a href="https://discord.gg/damn_coder_70059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="damn_coder_70059" height="30" width="40" /></a>
+<a href="https://twitter.com/chida_cham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chidambaram_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/chidambaram_sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/damn_cod3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chidambatugt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> < <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damn-cod3r&show_icons=true&locale=en&layout=compact" alt="damn-cod3r" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damn-cod3r&show_icons=true&locale=en&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damn-cod3r&show_icons=true&locale=en" alt="damn-cod3r" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damn-cod3r&show_icons=true&locale=en" />
+</p>
